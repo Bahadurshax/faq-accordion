@@ -1,0 +1,75 @@
+@media screen and (max-width: 375px) {
+	.acc-window {
+		flex-direction: column;
+		height: 70vh;
+		width: 90%;
+		margin-top: 150px;
+		background-size: 265px 280px;
+		background-position: 30px -160px;
+	}
+
+	.img-block {
+		width: 100%;
+		transform: scale(0.8);
+		top: -25.5%;
+	}
+
+	.inner {
+		overflow: visible;
+	}
+
+	.woman-img {
+		left: 0;
+	}
+
+	.email-img {
+		left: -20px;
+	}
+
+	#acc-card {
+		width: 90%;
+		margin: 0;
+		position: relative;
+		bottom: 17%;
+	}
+
+	.acc {
+		margin-top: 10px;
+	}
+
+	.title {
+		text-align: center;
+		font-size: 2.5em;
+	}
+}
+
+@media screen and (min-width: 1440px) {
+	.acc-window {
+		width: 60%;
+		height: 500px;
+		background-position: -620px -295px;
+		background-size: 966px 945px;
+	} 
+
+	.woman-img {
+		width: 425px;
+		position: relative;
+		left: -80px;
+	}
+
+	.email-img {
+		width: 190px;
+		position: absolute;
+		bottom: 30px;
+		left: -100px;
+	}
+
+	.acc {
+		padding: 10px 0;
+	}
+
+	.title {
+		font-size: 3em;
+	}
+
+}
