@@ -32,7 +32,7 @@ body {
 }
 
 .img-block {
-	width: 40%;
+	width: 325px;
 	position: relative;
 }
 
@@ -41,7 +41,7 @@ body {
 }
 
 .woman-img {
-	width: 325px;
+	width: 100%;
 	position: relative;
 	left: -55px;
 }
@@ -63,7 +63,6 @@ body {
 
 #acc-card {
 	width: 45%;
-	margin-left: 53.76px;
 }
 
 .acc {

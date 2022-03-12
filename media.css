@@ -1,17 +1,23 @@
 @media screen and (max-width: 375px) {
 	.acc-window {
-		flex-direction: column;
-		height: 70vh;
 		width: 90%;
+		height: 535px;
 		margin-top: 150px;
-		background-size: 265px 280px;
-		background-position: 30px -160px;
+		background-size: 255px 275px;
+		background-position: 50% -160px;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		position: relative;
 	}
 
 	.img-block {
-		width: 100%;
-		transform: scale(0.8);
-		top: -25.5%;
+		width: 255px;
+		position: absolute;
+		top: -35%;
+		left: 50%;
+		transform: translate(-50%, 35%);
+		
 	}
 
 	.inner {
@@ -23,14 +29,16 @@
 	}
 
 	.email-img {
-		left: -20px;
+		width: 110px;
+		left: -7px;
+		bottom: 23px;
 	}
 
 	#acc-card {
 		width: 90%;
-		margin: 0;
+		margin-left: 0;
+		margin-top: 30%;
 		position: relative;
-		bottom: 17%;
 	}
 
 	.acc {
@@ -51,6 +59,10 @@
 		background-size: 966px 945px;
 	} 
 
+	.img-block {
+		width: 350px;
+	}
+
 	.woman-img {
 		width: 425px;
 		position: relative;
@@ -62,6 +74,10 @@
 		position: absolute;
 		bottom: 30px;
 		left: -100px;
+	}
+
+	#acc-card {
+		margin-left: 55px;
 	}
 
 	.acc {
