@@ -5,6 +5,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 ## Table of contents
 
 - [Overview](#overview)
+    [Screenshot](#screenshot)
   - [The challenge](#the-challenge)
   - [Links](#links)
 - [My process](#my-process)
@@ -12,6 +13,9 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 - [Author](#author)
 
 ## Overview
+
+## Screenshot
+![the screenshot of the project](/path/to/image.png)
 
 ### The challenge
 
@@ -24,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/faq-accordion-card-using-html5-css3-and-es6-wm98X5OOL)
+- Live Site URL: [faq accordion](https://br-faq-accordion.netlify.app/)
 
 ## My process
 
@@ -34,10 +38,8 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
 
 
 ## Author
 
-- Github - [Bahadur](https://github.com/Bahadurshax)
 - Frontend Mentor - [@Bahadurshax](https://www.frontendmentor.io/profile/Bahadurshax)
