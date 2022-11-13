@@ -18,7 +18,8 @@ body {
     width: 900px;
     border-radius: 20px;
     background-color: #fff;
-    background: url('images/bg-pattern-desktop.svg') no-repeat;
+    background-image: url('images/bg-pattern-desktop.svg');
+	background-repeat: no-repeat;
     background-position: -590px -290px;
     margin: 125px auto;
     display: flex;
@@ -97,4 +98,8 @@ body {
     line-height: 22px;
     color: hsl(240, 6%, 50%);
     padding-bottom: 20px;
+}
+
+.attribution {
+	text-align: center;
 }
